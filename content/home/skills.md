@@ -37,7 +37,13 @@ subtitle = ""
   icon_pack = "fab"
   name = "Github"
   description = ""
-  
+
+[[feature]]
+  icon = "coins"
+  icon_pack = "fas"
+  name = "Economics"
+  description = ""  
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
