@@ -67,6 +67,6 @@ email: ""
 #- Visitors
 ---
 
-David is an Associate Professor of Economics at Emory University. His research includes theoretical as well as applied Econometrics and Statistics. He is also *Senior Editor* of __Advances in Econometrics__
+David is an Associate Professor of Economics at Emory University. His research includes theoretical as well as applied Econometrics and Statistics. He is also *Senior Editor* of __Advances in Econometrics__.
 
 <a href="https://www.scimagojr.com/journalsearch.php?q=4000152117&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=4000152117" alt="SCImago Journal &amp; Country Rank"  /></a>
