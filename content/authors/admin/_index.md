@@ -62,11 +62,11 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 David is an Associate Professor of Economics at Emory University. His research includes theoretical as well as applied Econometrics and Statistics. He is also *Senior Editor* of __Advances in Econometrics__
 
-link: https://www.scimagojr.com/journalsearch.php?q=4000152117&tip=sid&clean=0
+<a href="https://www.scimagojr.com/journalsearch.php?q=4000152117&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=4000152117" alt="SCImago Journal &amp; Country Rank"  /></a>
