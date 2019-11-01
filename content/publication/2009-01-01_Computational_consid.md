@@ -2,7 +2,7 @@
 title = "Computational considerations in empirical microeconometrics: Selected examples"
 date = "2009-01-01"
 authors = ["D.T. Jacho-Chavez", "P.K. Trivedi"]
-publication_types = ["0"]
+publication_types = ["6"]
 publication = "Palgrave Handbook of Econometrics: Volume 2: Applied Econometrics, _pp. 775-817_, https://doi.org/10.1057/9780230244405_15"
 publication_short = "Palgrave Handbook of Econometrics: Volume 2: Applied Econometrics, _pp. 775-817_, https://doi.org/10.1057/9780230244405_15"
 abstract = ""
