@@ -49,11 +49,5 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   description = ""  
-  
-[[feature]]
-  icon = "project-diagram"
-  icon_pack = "fas"
-  name = "Network Data"
-  description = ""
 
 +++
