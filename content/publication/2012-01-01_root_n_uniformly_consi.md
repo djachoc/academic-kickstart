@@ -2,7 +2,7 @@
 title = "√n-uniformly consistent density estimation in nonparametric regression models"
 date = "2012-01-01"
 authors = ["J.C. Escanciano", "D.T. Jacho-Chavez"]
-publication_types = ["1"]
+publication_types = ["2"]
 publication = "Journal of Econometrics, (167), 2, _pp. 305-316_, https://doi.org/10.1016/j.jeconom.2011.09.017"
 publication_short = "Journal of Econometrics, (167), 2, _pp. 305-316_, https://doi.org/10.1016/j.jeconom.2011.09.017"
 abstract = ""

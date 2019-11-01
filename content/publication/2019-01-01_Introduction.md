@@ -1,5 +1,5 @@
 +++
-title = "Introduction to *The Econometrics of Complex Survey Data: Theory and Applications*"
+title = "Introduction to 'The Econometrics of Complex Survey Data: Theory and Applications'"
 date = "2019-01-01"
 authors = ["K.P. Huynh", "D.T. Jacho-Chavez", "G. Tripathi"]
 publication_types = ["6"]
