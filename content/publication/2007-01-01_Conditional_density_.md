@@ -1,7 +1,7 @@
 +++
 title = "Conditional density estimation: An application to the Ecuadorian manufacturing sector"
 date = "2007-01-01"
-authors = ["K. Huynh", "D. Jacho-Chavez"]
+authors = ["K.P. Huynh", "D.T. Jacho-Chavez"]
 publication_types = ["2"]
 publication = "Economics Bulletin, (3), 62"
 publication_short = "Economics Bulletin, (3), 62"

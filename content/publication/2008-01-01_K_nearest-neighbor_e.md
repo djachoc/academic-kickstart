@@ -1,7 +1,7 @@
 +++
 title = "K nearest-neighbor estimation of inverse density weighted expectations"
 date = "2008-01-01"
-authors = ["D. Jacho-Chavez"]
+authors = ["D.T. Jacho-Chavez"]
 publication_types = ["2"]
 publication = "Economics Bulletin, (3), 48"
 publication_short = "Economics Bulletin, (3), 48"
