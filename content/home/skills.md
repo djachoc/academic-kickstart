@@ -26,11 +26,11 @@ subtitle = ""
   name = "Python"
   description = ""
 
-[[feature]]
-  icon = "overleaf"
-  icon_pack = "ai"
-  name = "Overleaf"
-  description = ""
+#[[feature]]
+#  icon = "overleaf"
+#  icon_pack = "ai"
+#  name = "Overleaf"
+#  description = ""
 
 [[feature]]
   icon = "github"

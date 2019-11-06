@@ -1,7 +1,7 @@
 +++
 title = "Identification and nonparametric estimation of a transformed additively separable model"
 date = "2010-01-01"
-authors = ["D. Jacho-Chavez", "A. Lewbel", "O. Linton"]
+authors = ["D.T. Jacho-Chavez", "A. Lewbel", "O. Linton"]
 publication_types = ["2"]
 publication = "Journal of Econometrics, (156), 2, _pp. 392-407_, https://doi.org/10.1016/j.jeconom.2009.11.008"
 publication_short = "Journal of Econometrics, (156), 2, _pp. 392-407_, https://doi.org/10.1016/j.jeconom.2009.11.008"

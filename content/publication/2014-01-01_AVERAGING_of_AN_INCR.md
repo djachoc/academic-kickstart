@@ -1,7 +1,7 @@
 +++
-title = "AVERAGING of AN INCREASING NUMBER of MOMENT CONDITION ESTIMATORS"
+title = "Averaging of an Increasing Number of Moment Condition Estimators"
 date = "2014-01-01"
-authors = ["X. Chen", "D.T. Jacho-Chavez", "O. Linton"]
+authors = ["X. Chen", "D.T. Jacho-Chavez", "O.B. Linton"]
 publication_types = ["2"]
 publication = "Econometric Theory, (32), 1, _pp. 30-70_, https://doi.org/10.1017/S0266466614000851"
 publication_short = "Econometric Theory, (32), 1, _pp. 30-70_, https://doi.org/10.1017/S0266466614000851"
