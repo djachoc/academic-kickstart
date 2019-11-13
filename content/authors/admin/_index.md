@@ -65,7 +65,7 @@ social:
   link: https://github.com/djachoc
  - icon: cv
    icon_pack: ai
-   link: files/engCV2.pdf
+   link: static/files/engCV2.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
