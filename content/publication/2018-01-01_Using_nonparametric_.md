@@ -1,5 +1,5 @@
 +++
-title = "Using nonparametric copulas to measure crude oil price co-movements"
+title = "Using Nonparametric Copulas to Measure Crude Oil Price Co-Movements"
 date = "2018-01-01"
 authors = ["A.T.Y. Ho", "K.P. Huynh", "D.T. Jacho-Chavez"]
 publication_types = ["2"]
