@@ -1,10 +1,10 @@
 +++
 title = "Using Nonparametric Copulas to Measure Crude Oil Price Co-Movements"
-date = "2018-01-01"
+date = "2019-01-01"
 authors = ["A.T.Y. Ho", "K.P. Huynh", "D.T. Jacho-Chavez"]
 publication_types = ["2"]
-publication = "Energy Economics, https://doi.org/10.1016/j.eneco.2018.05.022"
-publication_short = "Energy Economics, https://doi.org/10.1016/j.eneco.2018.05.022"
+publication = "Energy Economics, (186), _pp. 211-223_, https://doi.org/10.1016/j.eneco.2018.05.022"
+publication_short = "Energy Economics, (186), _pp. 211-223_, https://doi.org/10.1016/j.eneco.2018.05.022"
 abstract = ""
 abstract_short = ""
 image_preview = ""
