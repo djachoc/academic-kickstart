@@ -11,11 +11,11 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = ""
+url_pdf = "http://www.accessecon.com/pubs/EB/2007/Volume3/EB-07C10008A.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_scopus = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-36749055129&partnerID=40&md5=55c3b5812286c1fe6b0adf2e79718671"
+url_project = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-36749055129&partnerID=40&md5=55c3b5812286c1fe6b0adf2e79718671"
 url_slides = ""
 url_video = ""
 url_poster = ""
