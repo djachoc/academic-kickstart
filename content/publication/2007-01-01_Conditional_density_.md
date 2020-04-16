@@ -11,12 +11,11 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-36749055129&partnerID=40&md5=55c3b5812286c1fe6b0adf2e79718671"
 url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-36749055129&partnerID=40&md5=55c3b5812286c1fe6b0adf2e79718671"
 url_slides = ""
 url_video = ""
 url_poster = ""
