@@ -26,11 +26,11 @@ subtitle = ""
   name = "Python"
   description = ""
 
-#[[feature]]
-#  icon = "overleaf"
-#  icon_pack = "ai"
-#  name = "Overleaf"
-#  description = ""
+[[feature]]
+  icon = "overleaf"
+  icon_pack = "ai"
+  name = "Overleaf"
+  description = ""
 
 [[feature]]
   icon = "github"
@@ -38,16 +38,16 @@ subtitle = ""
   name = "Github"
   description = ""
 
-#[[feature]]
-#  icon = "coins"
-#  icon_pack = "fas"
-#  name = "Economics"
-#  description = ""  
+[[feature]]
+  icon = "coins"
+  icon_pack = "fas"
+  name = "Economics"
+  description = ""  
 
-#[[feature]]
-#  icon = "chart-line"
-#  icon_pack = "fas"
-#  name = "Statistics"
-#  description = ""  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
+  description = ""  
 
 +++
