@@ -1,5 +1,5 @@
 +++
-title = "Averaging of an Increasing Number of Moment Condition Estimators"
+title = "Averaging of an increasing number of moment condition estimators"
 date = "2014-01-01"
 authors = ["X. Chen", "D.T. Jacho-Chavez", "O.B. Linton"]
 publication_types = ["2"]
