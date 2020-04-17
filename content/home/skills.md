@@ -15,16 +15,16 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = ""
+  icon = "coins"
+  icon_pack = "fas"
+  name = "Economics"
+  description = ""  
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = ""
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
+  description = ""  
 
 [[feature]]
   icon = "overleaf"
@@ -39,15 +39,15 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "coins"
-  icon_pack = "fas"
-  name = "Economics"
-  description = ""  
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = ""
 
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = ""
 
 +++
