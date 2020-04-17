@@ -10,6 +10,7 @@ abstract = "Let H0(X) be a function that can be nonparametrically estimated. Sup
 abstract_short = ""
 image_preview = ""
 selected = true
+featured = true
 projects = []
 tags = []
 url_pdf = "https://onlinelibrary.wiley.com/doi/epdf/10.3982/QE328"
