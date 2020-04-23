@@ -1,8 +1,8 @@
 +++
-title = "Introduction to 'The econometrics of complex survey data: Theory and applications'"
+title = "The econometrics of complex survey data: Theory and applications"
 date = "2019-01-01"
 authors = ["K.P. Huynh", "D.T. Jacho-Chavez", "G. Tripathi"]
-publication_types = ["6"]
+publication_types = ["5"]
 publication = "**Advances in Econometrics**, (39), pp. ix-xi"
 publication_short = "**Advances in Econometrics**, (39), pp. ix-xi"
 doi = "10.1108/S0731-905320190000039005"
