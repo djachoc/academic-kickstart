@@ -16,8 +16,8 @@ header:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
  links:
- - name: "Scopus"
-   url: ""
+  name: "Scopus"
+  url: ""
 #   icon_pack: fab
 #   icon: twitter
 ---
