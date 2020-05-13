@@ -12,12 +12,4 @@ view: 4
 header:
   caption: ""
   image: ""
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
- links:
-  name: "Scopus"
-  url: ""
-#   icon_pack: fab
-#   icon: twitter
 ---
