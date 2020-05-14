@@ -1,5 +1,5 @@
 +++
-title = "K-nearest neighbor estimation of inverse-density-weighted expectations with dependent data"
+title = "$k$-nearest neighbor estimation of inverse-density-weighted expectations with dependent data"
 date = "2012-01-01"
 authors = ["B. Chu", "D.T. Jacho-Chavez"]
 publication_types = ["2"]
