@@ -6,7 +6,7 @@ publication_types = ["2"]
 publication = "**Econometric Theory**, (25), 3, pp. 847-855"
 publication_short = "**Econometric Theory**, (25), 3, pp. 847-855"
 doi = "10.1017/S0266466609090732"
-abstract = "Consider the unconditional moment restriction $E[m(y,v,w;\pi_0)/f_{V|w} (v|w) s(w;\pi_0)] = 0$, where $m(\cdot)$ and $s(\cdot)$ are known vector-valued functions of data $(y^\prime,v,w^\prime)^\prime$. The smallest asymptotic variance that √n-consistent regular estimators of 0 can have is calculated when $f_{V|w}(\cdot)$ is only known to be a bounded, continuous, nonzero conditional density function. Our results show that plug-in kernel-based estimators of $\pi_0$ constructed from this type of moment restriction, such as Lewbel (1998, Econometrica 66, 105121) and Lewbel (2007, Journal of Econometrics 141, 777806), are semiparametric efficient."
+abstract = "Consider the unconditional moment restriction $E[m(y,v,w;\\pi_0)/f_{V|w} (v|w) s(w;\\pi_0)] = 0$, where $m(\\cdot)$ and $s(\\cdot)$ are known vector-valued functions of data $(y^\\prime,v,w^\\prime)^\\prime$. The smallest asymptotic variance that √n-consistent regular estimators of 0 can have is calculated when $f_{V|w}(\\cdot)$ is only known to be a bounded, continuous, nonzero conditional density function. Our results show that plug-in kernel-based estimators of $\\pi_0$ constructed from this type of moment restriction, such as Lewbel (1998, Econometrica 66, 105121) and Lewbel (2007, Journal of Econometrics 141, 777806), are semiparametric efficient."
 abstract_short = ""
 image_preview = ""
 featured = true
