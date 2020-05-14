@@ -1,6 +1,6 @@
 +++
 title = "Averaging of an increasing number of moment condition estimators"
-date = "2014-01-01"
+date = "2016-01-01"
 authors = ["X. Chen", "D.T. Jacho-Chavez", "O.B. Linton"]
 publication_types = ["2"]
 publication = "**Econometric Theory**, (32), 1, pp. 30-70"

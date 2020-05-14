@@ -1,6 +1,6 @@
 +++
 title = "A nonparametric analysis of firm size, leverage and labour productivity distribution dynamics"
-date = "2014-01-01"
+date = "2015-01-01"
 authors = ["K.P. Huynh", "D.T. Jacho-Chavez", "R.J. Petrunia", "M.C. Voia"]
 publication_types = ["2"]
 publication = "**Empirical Economics**, (48), 1, pp. 337-360"
