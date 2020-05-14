@@ -1,12 +1,12 @@
 +++
-title = "√n-uniformly consistent density estimation in nonparametric regression models"
+title = "${\\sqrt{n}}$-uniformly consistent density estimation in nonparametric regression models"
 date = "2012-01-01"
 authors = ["J.C. Escanciano", "D.T. Jacho-Chavez"]
 publication_types = ["2"]
 publication = "**Journal of Econometrics**, (167), 2, pp. 305-316"
 publication_short = "**Journal of Econometrics**, (167), 2, pp. 305-316"
 doi = "10.1016/j.jeconom.2011.09.017"
-abstract = "The paper introduces a √n -consistent estimator of the probability density function of the response variable in a nonparametric regression model. The proposed estimator is shown to have a (uniform) asymptotic normal distribution, and it is computationally very simple to calculate. A Monte Carlo experiment confirms our theoretical results. The results derived in the paper adapt general U-processes theory to the inclusion of infinite dimensional nuisance parameters."
+abstract = "The paper introduces a ${\\sqrt{n}}$-consistent estimator of the probability density function of the response variable in a nonparametric regression model. The proposed estimator is shown to have a (uniform) asymptotic normal distribution, and it is computationally very simple to calculate. A Monte Carlo experiment confirms our theoretical results. The results derived in the paper adapt general U-processes theory to the inclusion of infinite dimensional nuisance parameters."
 abstract_short = ""
 image_preview = ""
 featured = true
