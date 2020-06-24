@@ -1,5 +1,5 @@
 +++
-title = "Semiparametric Quasi Maximum Likelihood Estimation of the Fractional Response Model"
+title = "Semiparametric quasi maximum likelihood estimation of the fractional response model"
 date = "2020-01-01"
 publishDate = "2020-01-01"
 authors = ["S. Montoya-Blandon", "D.T. Jacho-Chavez"]
