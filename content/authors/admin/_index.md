@@ -51,6 +51,9 @@ social:
 - icon: microsoft
   icon_pack: fab
   link: https://academic.microsoft.com/profile/e120h6h7-314e-4f00-f6j2-4ig417f44gg9/DavidTomasJachoChavez
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/david-jacho-chavez/
 - icon: ideas-repec
   icon_pack: ai
   link: https://ideas.repec.org/e/pja134.html
