@@ -80,6 +80,6 @@ email: ""
 #- Visitors
 ---
 
-David is Professor of Economics at Emory University. His research includes theoretical as well as applied Econometrics and Statistics. Since 2013, he is *Senior Co-Editor* of [__Advances in Econometrics__](http://faculty.smu.edu/millimet/aie.html).
+David is Professor of Economics at Emory University. His research includes theoretical as well as applied Econometrics and Statistics. He is *Senior Co-Editor* and elected _fellow_ of [__Advances in Econometrics__](http://faculty.smu.edu/millimet/aie.html).
 
 <a href="https://www.scimagojr.com/journalsearch.php?q=4000152117&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=4000152117" alt="SCImago Journal &amp; Country Rank"  /></a>
