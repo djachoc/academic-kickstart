@@ -65,7 +65,7 @@ social:
   link: https://orcid.org/0000-0003-3511-422X
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/david-jacho-chavez-290a94188
+  link: https://www.linkedin.com/in/david-jacho-chavez
 - icon: github
   icon_pack: fab
   link: https://github.com/djachoc
