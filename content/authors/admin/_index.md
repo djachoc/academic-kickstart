@@ -51,9 +51,9 @@ social:
 - icon: microsoft
   icon_pack: fab
   link: https://academic.microsoft.com/profile/e120h6h7-314e-4f00-f6j2-4ig417f44gg9/DavidTomasJachoChavez
-- icon: elsevier
-  icon_pack: ai
-  link: https://www.scopus.com/authid/detail.uri?authorId=23027456200
+#- icon: elsevier
+#  icon_pack: ai
+#  link: https://www.scopus.com/authid/detail.uri?authorId=23027456200
 - icon: ideas-repec
   icon_pack: ai
   link: https://ideas.repec.org/e/pja134.html
