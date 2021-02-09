@@ -1,7 +1,7 @@
 +++
 title = "Econometrics Pedagogy and Cloud Computing: Training the Next Generation of Economists and Data Scientists"
-date = "2020-01-01"
-publishDate = "2020-01-01"
+date = "2021-01-01"
+publishDate = "2021-01-01"
 authors = ["D.V. Handel", "A.T.Y. Ho", "K.P. Huynh", "D.T. Jacho-Chavez", "C. Rea"]
 publication_types = ["2"]
 publication = "**Journal of Econometric Methods**, (10), pp. 89-102"
