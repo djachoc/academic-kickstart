@@ -23,14 +23,14 @@ weight = 40
 ### __Elected Fellow__
 
 - __Year:__ 2020
-- __Grantor:__ _Advances in Econometrics_ 
+- __Grantor:__ [_Advances in Econometrics_](https://faculty.smu.edu/millimet/AiE.html)
 
 ### __Michael Szenberg Prize__
 
 - __Year:__ 2016
-- __Grantor:__ _The American Economist_
+- __Grantor:__ [_The American Economist_](https://doi.org/10.1177/0569434516663846)
 
 ### __Multa Scripsit Award__
 
 - __Year:__ 2013
-- __Grantor:__ _Econometric Theory_
+- __Grantor:__ [_Econometric Theory_](http://korora.econ.yale.edu/et/award/past.htm)
