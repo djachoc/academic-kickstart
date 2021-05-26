@@ -18,7 +18,7 @@ weight = 40
 ### __Eleanor Main Graduate Faculty Mentor Award__
 
 - __Year:__ 2021
-- __Grantor:__ Laney Graduate School, Emory University
+- __Grantor:__ [Laney Graduate School, Emory University](https://www.gs.emory.edu/about/awards.html)
 
 ### __Elected Fellow__
 
