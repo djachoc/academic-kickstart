@@ -23,7 +23,7 @@ weight = 40
 ### __Elected Fellow__
 
 - __Year:__ 2020
-- __Issuer:__ [_Advances in Econometrics_](https://faculty.smu.edu/millimet/AiE.html)
+- __Issuer:__ [_Advances in Econometrics_](https://www.emerald.com/insight/publication/issn/0731-9053)
 
 ### __Michael Szenberg Prize__
 
