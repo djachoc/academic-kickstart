@@ -48,9 +48,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=o2b9PBAAAAAJ&hl
-- icon: microsoft
-  icon_pack: fab
-  link: https://academic.microsoft.com/profile/e120h6h7-314e-4f00-f6j2-4ig417f44gg9/DavidTomasJachoChavez
+#- icon: microsoft
+#  icon_pack: fab
+#  link: https://academic.microsoft.com/profile/e120h6h7-314e-4f00-f6j2-4ig417f44gg9/DavidTomasJachoChavez
 #- icon: elsevier
 #  icon_pack: ai
 #  link: https://www.scopus.com/authid/detail.uri?authorId=23027456200
