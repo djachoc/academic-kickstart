@@ -1,5 +1,5 @@
 +++
-title = "Estimating Social Effects in a Multilayered Linear-in-Means Model with Network Data"
+title = "We didn't start the fire: Effects of a natural disaster on consumers' financial distress"
 date = "2023-03-01"
 publishDate = "2023-03-01"
 authors = ["A.T.Y. Ho", "K.P. Huynh", "D.T. Jacho-Chavez", "G. Vallee"]
