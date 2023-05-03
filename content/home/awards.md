@@ -15,6 +15,11 @@ weight = 40
 
 +++
 
+### __LGS Outstanding Director of Graduate Studies Award__
+
+- __Year:__ 2023
+- __Issuer:__ [Laney Graduate School, Emory University](https://news.emory.edu/stories/2021/05/LGS_eleanor_main_chavez/campus.html)
+
 ### __Eleanor Main Graduate Faculty Mentor Award__
 
 - __Year:__ 2021
