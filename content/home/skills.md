@@ -24,6 +24,12 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
+  description = ""
+
+[[feature]]
+  icon = "aws"
+  icon_pack = "fab"
+  name = "Amazon Web Services"
   description = ""  
 
 [[feature]]
