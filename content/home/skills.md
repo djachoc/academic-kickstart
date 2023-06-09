@@ -50,4 +50,10 @@ subtitle = ""
   name = "Python"
   description = ""
 
+[[feature]]
+  icon = "salesforce"
+  icon_pack = "fab"
+  name = "Tableau"
+  description = ""
+
 +++
