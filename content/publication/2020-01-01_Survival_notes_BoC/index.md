@@ -16,6 +16,7 @@ url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
+links = [{name="Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85108201504&doi=10.1108%2fS0731-905320200000042018&partnerID=40&md5=07dbc451b5bd7574808da866437b19b4"}]
 url_project = ""
 links = []
 url_slides = ""
