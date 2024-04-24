@@ -18,7 +18,7 @@ weight = 40
 ### __Faculty Award for Inclusive Excellence__
 
 - __Year:__ 2024
-- __Issuer:__ [Laney Graduate School, Emory University](https://www.gs.emory.edu/)
+- __Issuer:__ [Laney Graduate School, Emory University](https://gs.emory.edu/spotlight/deans-address-2024.html)
 
 ### __Outstanding Director of Graduate Studies Award__
 
