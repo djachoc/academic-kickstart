@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Economics & Director of Graduate Studies
+role: Professor of Economics & Associate Chair
 
 # Organizations/Affiliations
 organizations:
@@ -80,7 +80,7 @@ email: ""
 #- Visitors
 ---
 
-David is Professor and Director of Graduate Studies in the Department of Economics at Emory University. His research includes theoretical as well as applied Econometrics and Statistics. He is *Senior Co-Editor* and elected _fellow_ of [__Advances in Econometrics__](https://www.emerald.com/insight/publication/issn/0731-9053).
+David is Professor and Associate Chair in the Department of Economics at Emory University. His research includes theoretical as well as applied Econometrics and Statistics. He is *Senior Co-Editor* and elected _fellow_ of [__Advances in Econometrics__](https://www.emerald.com/insight/publication/issn/0731-9053).
 
 <!--
 <a href="https://www.scimagojr.com/journalsearch.php?q=4000152117&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=4000152117" alt="SCImago Journal &amp; Country Rank"  /></a>
