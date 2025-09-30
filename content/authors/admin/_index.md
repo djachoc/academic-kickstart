@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Economics & Associate Chair
+role: Professor of Economics & Director of Graduate Studies
 
 # Organizations/Affiliations
 organizations:
