@@ -62,10 +62,10 @@ subtitle = ""
   name = "Tableau"
   description = ""
 
-[[feature]]
-  icon = "custom/postgresql"
-  icon_pack = "custom"
-  name = "Postgresql"
-  description = ""
+#[[feature]]
+#  icon = "custom/postgresql"
+#  icon_pack = "custom"
+#  name = "Postgresql"
+#  description = ""
 
 +++
