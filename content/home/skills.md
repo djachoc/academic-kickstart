@@ -63,7 +63,7 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "postgresql"
+  icon = "custom/postgresql"
   icon_pack = "custom"
   name = "Postgresql"
   description = ""
