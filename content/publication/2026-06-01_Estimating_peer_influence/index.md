@@ -17,11 +17,11 @@ url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-links = []
+links = [{name="Scopus", url = "https://www.scopus.com/pages/publications/105034793307"}]
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.sciencedirect.com/science/article/pii/S0378873326000213"
+url_source = ""
 math = true
 highlight = true
 [header]
