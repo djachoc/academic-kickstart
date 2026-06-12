@@ -18,7 +18,7 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-links = []
+links = [{name="Scopus", url = "https://www.scopus.com/pages/publications/105028529923"}]
 url_slides = ""
 url_video = ""
 url_poster = ""
